@@ -1,0 +1,17 @@
+{
+  "name": "gamelayout",
+  "version": "1.0.0",
+  "description": "\"just building the gamelayout with the help of bootstrap 4:\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iFlameing",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
